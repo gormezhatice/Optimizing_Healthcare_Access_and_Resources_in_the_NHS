@@ -16,3 +16,10 @@ I begin by setting up the plotting environment using Seaborn and Matplotlib libr
 
 I divide the data by seasons and focus on specific periods, noting a significant decrease in the 'unmapped' section from August 2021 to April 2022. I use barplots and lineplots for their simplicity and effectiveness in comparing categories over time. The visualizations are enhanced with appropriate labels, grid, color palette, and customized legends. Date format is changed for clarity, and bar values are displayed using a 'for loop.' Extra visualizations, such as seasonal lineplots excluding 'General Practice,' reveal patterns of appointments rising and falling over a seven-day period. Four seasonal lineplots for daily appointments are also created to understand NHS resource utilization.
 
+
+<img width="943" alt="Screenshot 2024-01-14 at 15 02 15" src="https://github.com/gormezhatice/Optimizing_Healthcare_Access_and_Resources_in_the_NHS/assets/133010718/ef276839-f270-4598-be53-2039785de738">
+
+<img width="935" alt="Screenshot 2024-01-14 at 17 06 10" src="https://github.com/gormezhatice/Optimizing_Healthcare_Access_and_Resources_in_the_NHS/assets/133010718/a104d763-7a35-4014-8e1e-15d90d51725b">
+
+<img width="804" alt="Screenshot 2024-01-14 at 15 04 19" src="https://github.com/gormezhatice/Optimizing_Healthcare_Access_and_Resources_in_the_NHS/assets/133010718/a14a5782-7753-474e-8968-e2316b218583">
+
