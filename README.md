@@ -16,8 +16,11 @@ I begin by setting up the plotting environment using Seaborn and Matplotlib libr
 
 I divide the data by seasons and focus on specific periods, noting a significant decrease in the 'unmapped' section from August 2021 to April 2022. I use barplots and lineplots for their simplicity and effectiveness in comparing categories over time. The visualizations are enhanced with appropriate labels, grid, color palette, and customized legends. Date format is changed for clarity, and bar values are displayed using a 'for loop.' Extra visualizations, such as seasonal lineplots excluding 'General Practice,' reveal patterns of appointments rising and falling over a seven-day period. Four seasonal lineplots for daily appointments are also created to understand NHS resource utilization.
 
+# Optimizing Healthcare Efficiency: A Data-Driven Analysis and Recommendations
 
 <img width="943" alt="Screenshot 2024-01-14 at 15 02 15" src="https://github.com/gormezhatice/Optimizing_Healthcare_Access_and_Resources_in_the_NHS/assets/133010718/ef276839-f270-4598-be53-2039785de738">
+
+Analysis of appointment data reveals that daily utilization never exceeds 1,200,000 appointments per month, but the daily distribution varies significantly. Increasing staff on busy days or spreading appointments evenly across the week is suggested. For attended appointments, 90-95% were attended, with missed GP appointments having a notable economic impact. Extended wait times contribute to higher rates of missed GP appointments, emphasizing the need to address factors causing delays. Recommendations include optimizing scheduling practices, hiring additional staff during peak periods, and implementing effective appointment reminder systems. Data consistency and accuracy are crucial for comprehensive resource planning.
 
 <img width="935" alt="Screenshot 2024-01-14 at 17 06 10" src="https://github.com/gormezhatice/Optimizing_Healthcare_Access_and_Resources_in_the_NHS/assets/133010718/a104d763-7a35-4014-8e1e-15d90d51725b">
 
